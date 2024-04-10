@@ -4,6 +4,10 @@ Using conda envirenment python==3.8
 ```bash
 conda create -n <env name> python=3.8
 ```
+activate your environment
+```bash
+conda activate <env name>
+```
 intstall requirements with 
 ```bash
 pip install -r requirements.txt
